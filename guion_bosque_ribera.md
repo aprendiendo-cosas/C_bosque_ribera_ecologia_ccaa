@@ -78,15 +78,21 @@ Este último bloque se refiere al conjunto de retos a los que nos enfrentamos pa
 
 
 
-+ Invasión de ailanto. En la actualidad la zona de estudio está siendo invadida por *Ailanthus altissima*. Se trata de un árbol originario de Asia que tiene una gran capacidad reproductiva (tanto por semillas como por rebrotes) y que ocupa cada año más superficie. Está desplazando al bosque de ribera natural. Esta especie se usaba hace décadas como ornamental en parques y jardines. Se naturalizó rápidamente y hoy constituye una de las principales especies de flora invasora de nuestro país. [Esta](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/ailanthus_altissima_2013_tcm30-69804.pdf) ficha, elaborada por el ministerio de medio ambiente, describe las principales características de la especie. Y este otro documento describe los factores que explican la expansión de esta especie. 
++ Invasión de ailanto. En la actualidad la zona de estudio está siendo invadida por *Ailanthus altissima*. Se trata de un árbol originario de Asia que tiene una gran capacidad reproductiva (tanto por semillas como por rebrotes) y que ocupa cada año más superficie. Está desplazando al bosque de ribera natural. Esta especie se usaba hace décadas como ornamental en parques y jardines. Se naturalizó rápidamente y hoy constituye una de las principales especies de flora invasora de nuestro país. [Esta](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/ailanthus_altissima_2013_tcm30-69804.pdf) ficha, elaborada por el ministerio de medio ambiente, describe las principales características de la especie. Y [este](https://github.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/raw/main/descargables/caracteristicas_invasion_ailanto.pdf) otro documento describe los factores que explican la expansión de esta especie. 
 
-En este caso el reto de gestión está muy relacionado con los aspectos aplicados descritos anteriormente. Se trata de generar mecanismos de gestión del territorio que aseguren tanto el disfrute del mismo por parte de los ciudadanos, como la conservación de la estructura del ecosistema. Los estudiantes deberán de incluir en su hilo argumental los conflictos derivados de las siguientes afirmaciones:
++ El reto de gestión más general está muy relacionado con los aspectos aplicados descritos anteriormente. Se trata de diseñar mecanismos de gestión del territorio que aseguren tanto el disfrute del mismo por parte de los ciudadanos, como la conservación de la estructura del ecosistema. Los estudiantes deberán de incluir en su hilo argumental los conflictos derivados de las siguientes afirmaciones:
 
-+ El bosque de ribera original (con gran cobertura vegetal) no puede ser usado cómodamente por los ciudadanos.
-+ Reducir la densidad del bosque fomente la entrada de especies exóticas e invasoras. 
-+ Un exceso de biomasa puede provocar daños a infraestructuras viarias en caso de inundación. 
+  + El bosque de ribera original (con gran cobertura vegetal) no puede ser usado cómodamente por los ciudadanos.
 
-También serán bienvenidas opciones que concilien las necesidades que tenemos con relación a este tipo de sistemas: uso público, retención de avenidas, suministro de biomasa. 
+  + Reducir la densidad del bosque fomente la entrada de especies exóticas e invasoras. 
+
+  + Un exceso de biomasa puede provocar daños a infraestructuras viarias en caso de inundación. 
+
+En el hilo argumental propuesto por los alumnos serán bienvenidas opciones que concilien las necesidades que tenemos con relación a este tipo de sistemas: uso público, retención de avenidas, suministro de biomasa. Las siguientes imágenes muestran una propuesta que puede servir como punto de partida.
+
+
+
+![manejo](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/main/imagenes/manejo.png)
 
 
 
