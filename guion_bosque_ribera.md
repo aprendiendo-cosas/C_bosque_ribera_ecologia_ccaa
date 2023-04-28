@@ -7,7 +7,7 @@
 >
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 >
-> + **_Estudiantes encargados de la actividad_**: Grupo 5
+> + **_Estudiantes encargados de la actividad_**: Grupo 6
 >
 
 
