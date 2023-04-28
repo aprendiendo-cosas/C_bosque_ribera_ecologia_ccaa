@@ -1,4 +1,4 @@
-# Guión para preparar la parada denominada "Matorrales de media montaña"
+# Guión para preparar la parada denominada "Bosques de ribera"
 
 
 > + **_Versión_**: 2022-2023
