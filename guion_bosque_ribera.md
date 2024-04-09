@@ -113,3 +113,36 @@ Elaborar un hilo argumental coherente requiere práctica. Os cuento a continuaci
 + Añadir referencias a elementos que los estudiantes ya saben (o deberían de saber...). Esto fomenta el aprendizaje profundo.
 
 Además, la intervención debe de tener una estructura bien definida. Es decir, debéis de usar los consejos anteriores para definir un hilo argumental concreto. Podéis empezar hablando del tipo de ecosistema que estemos visitando para luego seguir, por ejemplo, enumerando los factores ambientales que determinan su estructura y funcionamiento. Esto es solo una sugerencia. Podéis plantear otras opciones. 
+
+
+## Qué hay que entregar y cómo se califica esta actividad
+
+Para calificar vuestro desempeño en esta actividad, hay que entregar los productos descritos a continuación. La calificación se realizará con los criterios también comentados abajo:
+
++ **Breve guión con el hilo argumental que se seguirá durante la presentación (20%)**: Este guión contendrá las ideas principales que usará el grupo para exponer el tema que le haya tocado. Su elaboración se realizará de manera colaborativa (incluyendo al profesor) usando Microsoft Teams. La fecha límite para entregar este material será el 1 de mayo. La entrega se hará a través de [este](https://www.turnitin.com/t_submit.asp?r=48.3722738587414&svr=6&lang=en_us&aid=150464988) enlace. Criterios de calificación:
+
+  + Participación del equipo en Microsoft Teams.
+  + Coherencia del guión entregado para planificar la presentación en campo.
+
++ **Presentación el día de la excursión (40%)**: Se usarán los siguientes criterios para la calificación:
+
+  + Completitud de contenidos (60%): Se evaluará en qué medida se han contemplado todas las variables importantes del ecosistema en cuestión.
+  + Claridad de la expresión (20%). 
+  + Capacidad de respuesta a interacciones (20%). Se evaluará positivamente la capacidad del grupo de responder razonablemente a las preguntas realizadas por la audiencia.
+
++ **Dossier detallado del material usado en la excursión y las impresiones del grupo (40%):** Una vez finalizada la excursión, se preparará un dossier con contenido descrito a continuación. La fecha de entrega para esta actividad será el día 3 de junio. Se entregará el material a través de [este](https://www.turnitin.com/t_submit.asp?r=73.6710729476307&svr=6&lang=en_us&aid=150465103) enlace. 
+  
+  + Breve guión con el hilo argumental (2-4 páginas). Se trata del guión entregado inicialmente, pero mejorado con material gráfico y con el esquema de estructura-función del ecosistema descrito más arriba.
+  + Bibliografía consultada.
+  + Mapas, imágenes de satélite, ortofotos, etc.
+  + Reflexiones sobre cómo ha sido el trabajo en equipo. El equipo consensuará un mensaje que evaluará los puntos fuertes y débiles del trabajo colaborativo.
+  + Reflexiones sobre el aprendizaje de los miembros del grupo. Cada persona del equipo incluirá un párrafo describiendo qué ha aprendido de los demás miembros del equipo. 
+  + Recopilación y comentarios sobre la retroalimentación de la clase. Se enumerarán y responderán las preguntas realizadas por los demás miembros de la clase durante la exposición. 
+  + Propuesta de pregunta de examen (evaluación formativa) sobre la temática de la actividad. 
+  
+  Para la calificación de esta actividad se usarán los siguientes criterios:
+  
+  + Ajuste del contenido a lo requerido en el guión: 60%
+  + Claridad de la escritura: 20%
+  + Integración de la contribución de cada miembro (el texto debe leerse como si lo hubiera escrito una persona y no varias): 20%
+
