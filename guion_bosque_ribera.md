@@ -14,9 +14,7 @@
 
 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023_2024/imagenes/portada.jpg)
-
-
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/refs/tags/2023-2024/imagenes/portada.jpg)
 
 ## Objetivos
 
@@ -46,7 +44,7 @@ La siguiente imagen muestra la evolución temporal de la producción primaria en
 
 
 
-![ndvi](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023_2024/imagenes/ndvi.png)
+![ndvi](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/refs/tags/2023-2024/imagenes/ndvi.png)
 
 
 
@@ -142,7 +140,7 @@ En el hilo argumental propuesto por los alumnos serán bienvenidas opciones que 
 
 
 
-![manejo](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023_2024/imagenes/manejo.png)
+![manejo](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/refs/tags/2023-2024/imagenes/manejo.png)
 
 
 
