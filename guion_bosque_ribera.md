@@ -14,7 +14,7 @@
 
 
 
-![portada](https://github.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/raw/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023_2024/imagenes/portada.jpg 
 
 
 
