@@ -14,7 +14,7 @@
 
 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023_2024/imagenes/portada.jpg 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023_2024/imagenes/portada.jpg)
 
 
 
@@ -42,11 +42,11 @@ En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremo
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1TDM23r2xFIoX1E4npXLglD8-TfZcnUU&ehbc=2E312F" width="640" height="680"></iframe>
 
-La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa una clara tendencia ascendente. Esto quiere decir que el bosque de ribera se ha regenerado en los últimos años. De hecho, no existía antes de 1990. Su crecimiento se ha debido por un lado a algunas plantaciones realizadas por la administración pública y por otro a la relajación de las presiones ganaderas y de obtención de leñas. La gráfica se ha obtenido con [esta](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer) aplicación web. 
+La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://raw.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2023_2024/guion_ndvi.html) sobre la práctica de producción primaria). Se observa una clara tendencia ascendente. Esto quiere decir que el bosque de ribera se ha regenerado en los últimos años. De hecho, no existía antes de 1990. Su crecimiento se ha debido por un lado a algunas plantaciones realizadas por la administración pública y por otro a la relajación de las presiones ganaderas y de obtención de leñas. La gráfica se ha obtenido con [esta](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer) aplicación web. 
 
 
 
-![ndvi](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/main/imagenes/ndvi.png)
+![ndvi](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023_2024/imagenes/ndvi.png)
 
 
 
@@ -128,7 +128,7 @@ Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a 
 
 Este último bloque se refiere al conjunto de retos a los que nos enfrentamos para gestionar de manera sostenible este tipo de ecosistema. Al igual que antes, se trata de una lista abierta, así que cualquier contribución de los estudiantes que harán de profesores, será más que bienvenida. Esta sección nos permitirá conectar con la asignatura que veremos en tercero: *Gestión de ecosistemas*. Para los bosques de ribera identificamos dos retos principales. Uno más particular (invasión de ailanto) y otro más general (conflicto de usos):
 
-+ Invasión de ailanto. En la actualidad la zona de estudio está siendo invadida por *Ailanthus altissima*. Se trata de un árbol originario de Asia que tiene una gran capacidad reproductiva (tanto por semillas como por rebrotes) y que ocupa cada año más superficie. Está desplazando al bosque de ribera natural. Esta especie se usaba hace décadas como ornamental en parques y jardines. Se naturalizó rápidamente y hoy constituye una de las principales especies de flora invasora de nuestro país. [Esta](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/ailanthus_altissima_2013_tcm30-69804.pdf) ficha, elaborada por el ministerio de medio ambiente, describe las principales características de la especie. Y [este](https://github.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/raw/main/descargables/caracteristicas_invasion_ailanto.pdf) otro documento describe los factores que explican la expansión de esta especie. 
++ Invasión de ailanto. En la actualidad la zona de estudio está siendo invadida por *Ailanthus altissima*. Se trata de un árbol originario de Asia que tiene una gran capacidad reproductiva (tanto por semillas como por rebrotes) y que ocupa cada año más superficie. Está desplazando al bosque de ribera natural. Esta especie se usaba hace décadas como ornamental en parques y jardines. Se naturalizó rápidamente y hoy constituye una de las principales especies de flora invasora de nuestro país. [Esta](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/ailanthus_altissima_2013_tcm30-69804.pdf) ficha, elaborada por el ministerio de medio ambiente, describe las principales características de la especie. Y [este](https://github.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/raw/2023_2024/descargables/caracteristicas_invasion_ailanto.pdf) otro documento describe los factores que explican la expansión de esta especie. 
 
 + El reto de gestión más general está muy relacionado con los aspectos aplicados descritos anteriormente. Se trata de diseñar mecanismos de gestión del territorio que aseguren tanto el disfrute del mismo por parte de los ciudadanos, como la conservación de la estructura del ecosistema. Los estudiantes deberán de incluir en su hilo argumental los conflictos derivados de las siguientes afirmaciones:
 
@@ -142,7 +142,7 @@ En el hilo argumental propuesto por los alumnos serán bienvenidas opciones que 
 
 
 
-![manejo](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/main/imagenes/manejo.png)
+![manejo](https://raw.githubusercontent.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023_2024/imagenes/manejo.png)
 
 
 
